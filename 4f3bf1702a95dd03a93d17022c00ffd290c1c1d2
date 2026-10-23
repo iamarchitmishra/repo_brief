@@ -1,0 +1,47 @@
+tests/test_tree_filter.py
+  ec288de7c29dc708 1-41
+tests/test_brief_writer.py
+  ec288de7c29dc708 1-55
+app/brief_writer.py
+  ec288de7c29dc708 1-50
+tests/test_llm.py
+  ec288de7c29dc708 1-17
+README.md
+  ec288de7c29dc708 1-41
+app/llm.py
+  ec288de7c29dc708 1-18
+app/github_client.py
+  ec288de7c29dc708 1-32,34-40,42-44,46-48,50-52,54,57-107
+tests/test_github_client.py
+  ec288de7c29dc708 1-6,9,11,15-81,83-84,86-94,96-102,104-109,111-113,115-119,121-127,129-135,137-160
+main.py
+  ec288de7c29dc708 1-12,14-56
+tests/test_file_selector.py
+  ec288de7c29dc708 1-75
+app/tree_filter.py
+  ec288de7c29dc708 1-42
+tests/test_main.py
+  ec288de7c29dc708 1-59
+app/file_selector.py
+  ec288de7c29dc708 1-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "4f3bf1702a95dd03a93d17022c00ffd290c1c1d2",
+  "prompts": {
+    "ec288de7c29dc708": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f28f3eac-cc24-4495-b677-e53dc9dbb233",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Archit Mishra <archit.mishra1@1mg.com>",
+      "messages": [],
+      "total_additions": 790,
+      "total_deletions": 32,
+      "accepted_lines": 754,
+      "overriden_lines": 13
+    }
+  }
+}
