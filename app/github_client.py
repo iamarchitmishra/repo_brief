@@ -30,7 +30,7 @@ SESSION.mount(
 )
 
 
-@dataclass # @claude explain
+@dataclass
 class Repo:
     owner: str
     name: str
